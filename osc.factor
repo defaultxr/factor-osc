@@ -1,5 +1,4 @@
-USING: arrays byte-arrays calendar endian kernel lists math math.functions pack
-sequences strings ;
+USING: kernel combinators math math.functions sequences arrays byte-arrays lists strings endian calendar pack ;
 
 IN: osc
 
